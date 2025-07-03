@@ -1,20 +1,23 @@
 body{
-    font-family: sans-serif;background-color: white;
+    font-family: sans-serif;background-color:white;
 }
 
 
-.main-title {
-    color: darkgreen;background-color: white;font-size: 36px;
+.main-show {
+    color:skyblue;background-color:red;font-size: 36px;
+    padding: 15px;
 }
 
-.section-red {
-    color: black;background-color: red;font-size: 18px;
+.section-red{
+    background-color: blue; padding: 15px;;
 }
+
+
 
 .section-blue {
-    color: white;background-color: darkblue;font-size: 18px;
+    color: white;background-color:darkcyan;font-size: 18px
 }
 
-.section-large {
-    color: black;background-color: darkcyan;font-size: 18px;
+.section-narrow {
+    color: black;background-color: darkcyan;font-size: 18px;padding: 5px;
 }
